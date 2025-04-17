@@ -2,4 +2,4 @@
 This is a simple python script to check how fast your reflexes are ⏩
 <img width="705" alt="image" src="https://github.com/user-attachments/assets/bfc50b4f-0321-4e20-873d-2807167b890b" />
 <br>
-<href "discord.gg/FgM4zAw4qP">My discord 👆</href>
+<a href="discord.gg/FgM4zAw4qP">My discord 👆</a>
